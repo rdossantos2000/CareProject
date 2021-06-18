@@ -7,6 +7,4 @@ Description: Développement d'une application Web / Mobile, pour un client, perm
 
 Technologie utilisée: Java Android, React Js, Node Js, Express, Android Studio, WebStorm, Visual Studio Code, PostgreSQL, Heroku, AWS (S3)
 
-Autre créateur:
 
-Giselle Sierra, Watson Augustin, Biran Ndiaye
